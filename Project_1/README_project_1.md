@@ -15,6 +15,8 @@
 
 Датасеты доступны по [ссылке](https://drive.google.com/drive/folders/1Bww7VJQUUKXnfIcj_-GKL7zVjWq1WvqL?usp=drive_link). 
 
+Графики можно найти по [ссылке](https://github.com/Daria26g/SF-HW/tree/main/Project_1/plotly).
+
 ### 2. Какой кейс решаем? 
 
 Необходимо выполнить предобработку данных, далее провести разведывательный анализ и очистить данные от выбросов.
